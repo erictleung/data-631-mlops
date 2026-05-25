@@ -1,12 +1,29 @@
-# DATA 631: Applied MLOps (Professional Track)
+# DATA 631: Applied MLOps
 
-Welcome to the Applied MLOps course. This repository serves as your "Mission Control" for developing a production-grade MLOps system.
+Welcome to the Applied MLOps course!
 
-## 🚀 Getting Started
+**Contents**
 
-1. Click the **Code** button and select **Open with Codespaces**.
-2. Wait for the environment to build (it will automatically start MLflow and Dagster).
-3. Follow the instructions in [Week 1](weeks/week-01/README.md).
+- [Overview](#overview)
+- [Goals](#goals)
+- [Objectives](#objectives)
+- [Schedule](#schedule)
+- [Getting Started](#getting-started)
+
+## Overview
+
+In this course about machine learning operations, or MLOps, you will get a brief history behind its development, an overview of common elements that are needed to implement such a system, and understand how each of these components are put together. Moreover, you will get an understanding of pitfalls when implementing MLOps and what are the state-of-the-art tools and breakthroughts that are being developed today.
+
+## Goals
+
+- Students will be able to understand motivations behind MLOps
+- Students will be able to name elements of MLOps implementations
+- Students will have an understanding of common pitfalls and considerations for MLOps
+- Students will be able to name examples of MLOps implementations at companies
+
+## Objectives
+
+TODO
 
 ## 📅 Schedule
 
@@ -27,3 +44,9 @@ Welcome to the Applied MLOps course. This repository serves as your "Mission Con
 | 13 | [Governance & Documentation](weeks/week-13/README.md) | Compliance |
 | 14 | [Presentations (Part 1)](weeks/week-14/README.md) | Communication |
 | 15 | [Presentations (Part 2)](weeks/week-15/README.md) | Reflection |
+
+## 🚀 Getting Started
+
+1. Click the **Code** button and select **Open with Codespaces**.
+2. Wait for the environment to build (it will automatically start MLflow and Dagster).
+3. Follow the instructions in [Week 1](weeks/week-01/README.md).
